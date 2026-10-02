@@ -14,7 +14,7 @@ export const Hero: React.FC<HeroProps> = ({ onCheckAvailability, onExploreTour }
       {/* Background Image with Depth & Dark Gradient Overlays */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_party_celebration_1790852592922.jpg"
+          src="/assets/images/hero_party_celebration_1790852592922.jpg"
           alt="Salão de festas decorado e iluminado na Espaço Eventos"
           className="w-full h-full object-cover object-center scale-105 transition-transform duration-1000 ease-out"
           referrerPolicy="no-referrer"
